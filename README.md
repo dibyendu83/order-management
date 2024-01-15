@@ -17,7 +17,7 @@ For building and running the application you need:
 - [Maven](https://maven.apache.org/)
 
 
-##Build the service
+## Build the service
 To build the ```Order Management``` locally
 * Clone the project from github and go to locally cloned folder
 * Command to build and generate the jars ```mvn clean package or mvn clean install```
